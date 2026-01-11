@@ -189,6 +189,8 @@ The dataset contains:
 - Execution parameters: 4D coordinates (x1, y1, x2, y2) normalized to [0, 1], representing start and end points for manipulation actions
 - Natural language embeddings: 512-dimensional embeddings for action-food combinations
 
+## Checkpoint
+`https://drive.google.com/drive/folders/1TglfMMy4vbHvKdPmLe8byVhO9Crbkrye?usp=share_link`
 ## Supported Actions and Food Items
 
 **Actions**: skewering, scooping, twirling
